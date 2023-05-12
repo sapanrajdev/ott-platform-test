@@ -1,6 +1,6 @@
 import React from "react";
 
-const ListingPageContainer = () => {
+const ListingPageContainer = (props: any) => {
   return <div>Listing Page</div>;
 };
 
